@@ -1,2 +1,0 @@
-# Utsal-pro
-variabel.java
